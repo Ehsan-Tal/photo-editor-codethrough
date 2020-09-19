@@ -1,0 +1,30 @@
+#upload {
+    text-align:center;
+    background-color: aquamarine;
+    border:10px;
+    border-radius: 10px;
+}
+
+input{
+    margin: 2em 0; /*2em meaning 2 top and bottom and 0 being for left and right ! */
+}
+
+#buttons{
+    display:flex;
+    justify-content: space-evenly;
+    margin: 2em 0;
+    border: 1px solid aquamarine;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+button{
+    background-color: aquamarine;
+    border-radius: 10px;
+    width: 10em;
+    padding: 10px;
+}
+
+canvas {
+    max-width: 100%;
+}
